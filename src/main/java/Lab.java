@@ -4,7 +4,7 @@ public class Lab {
      *
      * This method currently contains the line:
      * return "change me";
-     * That means that this method is a piece of code that produces a String "change me", 
+     * hat means that this method is a piece of code that produces a String "change me", 
      * and when this method is used in other parts of my program, the value "change me"
      * is returned.
      * 
